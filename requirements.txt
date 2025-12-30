@@ -1,5 +1,10 @@
 streamlit
 pandas
+numpy
+matplotlib
 plotly
+wordcloud
+pypdf
+textblob
+textstat
 scikit-learn
-openpyxl
